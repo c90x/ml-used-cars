@@ -1,0 +1,9 @@
+attachments/
+doc/
+charged-ieee/
+
+.temp/
+
+.DS_Store
+
+.venv/
